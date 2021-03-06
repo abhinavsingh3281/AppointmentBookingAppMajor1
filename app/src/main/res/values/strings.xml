@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">AppointmentApplication</string>
+
+    <array name="appointment">
+        <item>10:10</item>
+        <item>10:15</item>
+        <item>10:20</item>
+        <item>10:25</item>
+        <item>10:30</item>
+        <item>10:35</item>
+        <item>10:40</item>
+        <item>10:45</item>
+        <item>10:50</item>
+        <item>10:55</item>
+        <item>11:00</item>
+        <item>11:05</item>
+        <item>11:10</item>
+        <item>11:15</item>
+        <item>11:20</item>
+        <item>11:25</item>
+        <item>11:30</item>
+        <item>11:35</item>
+        <item>11:40</item>
+        <item>11:45</item>
+        <item>11:50</item>
+        <item>11:55</item>
+        <item>12:00</item>
+        <item>12:05</item>
+        <item>12:10</item>
+        <item>12:15</item>
+        <item>12:20</item>
+        <item>12:25</item>
+        <item>12:30</item>
+        <item>12:35</item>
+        <item>12:40</item>
+        <item>12:45</item>
+        <item>12:50</item>
+        <item>12:55</item>
+        <item>1:00</item>
+
+
+    </array>
+
+    <array name="visitors">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </array>
+</resources>

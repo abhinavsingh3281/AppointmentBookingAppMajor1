@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".SDMPackage.SDMMain">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="249dp"
+            android:layout_height="253dp"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/satyamevjayate" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="center"
+            >
+
+            <Button
+                android:id="@+id/btnsdm1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="#B1D8EA"
+                android:layout_marginBottom="10dp"
+                android:text="BOOK YOUR APPOINTMENT WITH SDM SARITA VIHAR"
+                android:textAlignment="center"
+                android:textColor="@color/colorTextPrimary"
+                android:layout_marginRight="10dp"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                />
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="center"
+            >
+
+            <Button
+                android:id="@+id/btnsdm2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="#B1D8EA"
+                android:layout_marginBottom="10dp"
+                android:text="BOOK YOUR APPOINTMENT WITH SDM DEFENCE COLONY"
+                android:textAlignment="center"
+                android:textColor="@color/colorTextPrimary"
+                android:layout_marginRight="10dp"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                />
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="center"
+            >
+
+            <Button
+                android:id="@+id/btnsdm3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="#B1D8EA"
+                android:layout_marginBottom="10dp"
+                android:text="BOOK YOUR APPOINTMENT WITH SDM KALKAJI"
+                android:textAlignment="center"
+                android:textColor="@color/colorTextPrimary"
+                android:layout_marginRight="10dp"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                />
+
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>
+
+
